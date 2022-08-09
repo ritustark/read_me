@@ -14,7 +14,7 @@ A Small Introduction of  Myself, I am <b>Ritendra_kumar</b> pursuing <br>ELECTRO
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on various Projects related to web devlopment, </b> . Tech: Artifical Intelligence, Blockchain, Microsoft Azure, Google cloud, Internet of things,AR core.<br>
+I have learned web-development and having knowledge of HTML,CSS & Javascript. I have Worked on web devlopment projects.</b><br> Tech: Artifical Intelligence, Blockchain, Microsoft Azure, Google cloud, Internet of things,AR core.<br>
  Known Languages: Python,C, Html, JavaScript, and CSS.</b>
 
 <p align="center"> 
