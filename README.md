@@ -5,7 +5,7 @@
 <!--intRO name  -->
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/ritendrakumar-guntreddi-826936216/" target="_blank">RITENDRA_KUMAR</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
 
-A Small Introduction of  Myself, I am <b>Ritendra_kumar</b> pursuing <b>ELECTRONICS AND COMPUTER ENGINEERING</b> from VIGNAN'S INSTITUE OF INFORMATION TECHNOLOGY, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development,internet of things  and electric vehicles </b> but still, exploring Other domains. ⚡
+A Small Introduction of  Myself, I am <b>Ritendra_kumar</b> pursuing <br>ELECTRONICS AND COMPUTER ENGINEERING</b> from VIGNAN'S INSTITUE OF INFORMATION TECHNOLOGY, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development,internet of things  and electric vehicles </b> but still, exploring Other domains. ⚡
 
 <h3 align="center">A Passionate Frontend-Web Developer | Technology explorer </h3>
 
@@ -14,8 +14,8 @@ A Small Introduction of  Myself, I am <b>Ritendra_kumar</b> pursuing <b>ELECTRON
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on various Projects related to web devlopment,also <b> I'm  @IBM  Certified in  Fundamentals of html ,css and javascript. </b> . Tech: Artifical Intelligence, Blockchain, Microsoft Azure, Google cloud, Internet of things,AR core.
- Known Languages: Python,C, Html, JavaScript, and CSS.
+I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on various Projects related to web devlopment, </b> . Tech: Artifical Intelligence, Blockchain, Microsoft Azure, Google cloud, Internet of things,AR core.<br>
+ Known Languages: Python,C, Html, JavaScript, and CSS.</b>
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -33,6 +33,10 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
     <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   </p>
+  <h1>Certified in </h1>
+  <p>
+   Block Chain , Agumented _Reality core , HTML Css and Java Script , Matlab , Internet of Things <br>
+   verify at:https://drive.google.com/drive/folders/1EMk1c6Nx80szoTLnkhi0_xEIv59GJlKx </p>
 
  <h1>Started Exploring </h1>
 <p>
@@ -43,7 +47,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 </p>
 
 
-<h1 align="center">Projects</h1>
+
 
 
 
