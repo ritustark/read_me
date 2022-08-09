@@ -5,16 +5,16 @@
 <!--intRO name  -->
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/ritendrakumar-guntreddi-826936216/" target="_blank">RITENDRA_KUMAR</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
 
-A Small Introduction of  Myself, I am <b>Shivam Garg</b> pursuing <b>Computer Science Degree</b> from Dr. APJ Abdul Kalam Technical University, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
+A Small Introduction of  Myself, I am <b>Ritendra_kumar</b> pursuing <b>ELECTRONICS AND COMPUTER ENGINEERING</b> from VIGNAN'S INSTITUE OF INFORMATION TECHNOLOGY, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development,internet of things  and electric vehicles </b> but still, exploring Other domains. ⚡
 
-<h3 align="center">A Passionate Frontend-Web Developer | Artifical Intelligence enthusiast | Researcher </h3>
+<h3 align="center">A Passionate Frontend-Web Developer | Technology explorer </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=ritustark&label=Profile%20views&color=6805D3&style=flat" alt="ritustark" /> </p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on various Projects related to Artifical Intelligence,also <b> I'm 3 x @Microsoft Certified in Azure Fundamental , Artificial Intelligence, Security. </b> . Tech: Artifical Intelligence, Bionics, Microsoft Azure, Deep learning, Google cloud, Avionics.
+I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on various Projects related to web devlopment,also <b> I'm  @IBM  Certified in  Fundamentals of html ,css and javascript. </b> . Tech: Artifical Intelligence, Blockchain, Microsoft Azure, Google cloud, Internet of things,AR core.
  Known Languages: Python,C, Html, JavaScript, and CSS.
 
 <p align="center"> 
@@ -28,14 +28,12 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="Kubernets" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+    
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+    
 </p>
 
  <h1>Started Exploring </h1>
